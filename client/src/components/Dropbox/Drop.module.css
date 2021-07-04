@@ -1,0 +1,12 @@
+.Dropbox {
+    cursor: pointer;
+    width: 100%;
+    height: 200px;
+    border: 2px dashed #216CFF;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+}
+.P {
+    margin: auto 0;
+}
